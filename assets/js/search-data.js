@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Publications and presented posters in reversed chronological order. PDFs and full citations are provided.",
           section: "Navigation",
           handler: () => {

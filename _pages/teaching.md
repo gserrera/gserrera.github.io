@@ -60,20 +60,28 @@ nav_order: 6
 <style>
 /* Use theme variables so colors adapt to dark/light mode */
 .teaching {
-  color: var(--text-color); /* inherit site text color */
+  color: var(--text-color);
+  font-size: 1em; /* keep regular text size */
 }
 
-.section-title,
-.teaching h2 {
-  font-size: 1.5em;
-  font-weight: 600;
+/* Bigger and bolder section title */
+.section-title {
+  font-size: 1.3em;
+  font-weight: 700;
   color: var(--text-color);
-  margin-top: 1.8em;
+  margin-top: 2em;
   margin-bottom: 0.8em;
 }
 
+/* Bigger font for academic year headings */
+.entry-title {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 0.2em;
+}
+
 .teaching-year {
-  font-size: 1.5em;
   margin-bottom: 2em;
 }
 
@@ -82,12 +90,6 @@ nav_order: 6
   justify-content: space-between;
   align-items: baseline;
   margin-bottom: 0.5em;
-}
-
-.entry-title {
-  font-size: 1em;
-  font-weight: 600;
-  color: var(--text-color);
 }
 
 .teaching-courses {

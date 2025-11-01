@@ -60,7 +60,7 @@ nav_order: 6
 <style>
 .section-title,
 .teaching h2 {
-  font-size: 1.1em; /* smaller section titles */
+  font-size: 1.5em; /* smaller section titles */
   font-weight: 600;
   color: var(--text-color, #333);
   margin-top: 1.8em;
@@ -68,7 +68,7 @@ nav_order: 6
 }
 
 .teaching-year {
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 
 .entry-header {

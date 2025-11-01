@@ -1,9 +1,4 @@
-- name: John Doe
-  type: PhD student
-  year: 2024-2025
-  notes: Worked on adaptive optics experiments.
-
-- name: Jane Smith
-  type: Master’s thesis
-  year: 2025-2026
-  notes: Focused on fluorescence microscopy.
+- name: Bárbara Cacicedo López
+  type: Bachelor Thesis
+  year: 2023-2024
+  notes: Study of structured light scattering by nanostructures: application in optical chirality

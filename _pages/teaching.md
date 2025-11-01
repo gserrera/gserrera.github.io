@@ -2,11 +2,36 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses in which I have taught.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<!-- _pages/teaching.md -->
 
-Organize your courses by years, topics, or universities, however you like!
+<!-- Teaching Data Feature -->
+
+{% include teaching_search.liquid %}
+
+<div class="teaching">
+
+{% for year in site.data.teaching | sort: "year" | reverse %}
+### {{ year.year }}
+
+{% for course in year.courses %}
+- **{{ course.title }}** ({{ course.level }}, {{ course.semester }})  
+  {% if course.description %}{{ course.description }}{% endif %}
+{% endfor %}
+
+{% endfor %}
+
+---
+
+## Mentorship
+
+{% for mentorship in site.data.mentorships %}
+- **{{ mentorship.student_level }}**  
+  - {{ mentorship.name }} ({{ mentorship.period }}) – {{ mentorship.project }}
+{% endfor %}
+
+</div>

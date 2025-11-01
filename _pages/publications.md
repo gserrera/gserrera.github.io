@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications and presented posters in reversed chronological order. PDFs and full citations are provided.
 nav: true
 nav_order: 2

@@ -9,11 +9,11 @@
       semester: Second (Spring)
       description: Experiments in electromagnetism.
     - title: Physics I (G375)
-    level: Bachelor Degree in Mining/Energy Resources Engineering (first year)
-    semester: First (Fall)
-    description: Experiments in mechanics.
+      level: Bachelor Degree in Mining/Energy Resources Engineering (first year)
+      semester: First (Fall)
+      description: Experiments in mechanics.
 
-- year: 2024-2026
+- year: 2024-2025
   courses:
     - title: Advanced Experimental Techniques (G1775)
       level: Bachelor Degree in Physics (fourth year)

@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p>Faculty of Sciences 3033</p>
     <p>Avenida Los Castros 48</p>
-    <p>39005, Santander, Cantabria, Spain</p>
+    <p>39005, Santander, Cantabria</p>
+    </p>Spain</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

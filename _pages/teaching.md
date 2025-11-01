@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+social: true # includes social icons at the bottom of the page
+
 <!-- _pages/teaching.md -->
 
 <div class="teaching">

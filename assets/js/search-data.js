@@ -462,6 +462,13 @@ ninja.data = [{
           window.open("mailto:%67%75%69%6C%6C%65%72%6D%6F.%73%65%72%72%65%72%61@%75%6E%69%63%61%6E.%65%73", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/gserrera", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -481,6 +488,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=s3xMDM8AAAAJ&hl", "_blank");
+        },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=57223145297", "_blank");
         },
       },{
       id: 'light-theme',

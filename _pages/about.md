@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Group of Optics, Department of Applied Physics, <a href='#'>University of Cantabria</a>
 

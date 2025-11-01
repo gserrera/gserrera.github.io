@@ -38,7 +38,7 @@ nav_order: 6
 
 <hr>
 
-<h2 class="section-title">Mentorships</h2>
+<h2 class="section-title">Supervisions</h2>
 <div class="mentorships">
   {% if site.data.mentorships %}
     {% for mentor in site.data.mentorships %}

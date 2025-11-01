@@ -30,7 +30,6 @@
       "startDate": "2023-01-01",
       "endDate": "2026-12-31",
       "summary": "PhD Student in the Optics Group. Reserching in chiral nanophotonics and optical forces."
-      // "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
@@ -56,8 +55,8 @@
       "endDate": "2026-12-31",
       "score": "Unknown",
       "courses": ["Theory of Relativity"]
-    }
-
+    },
+    
     {
       "institution": "University of Cantabria",
       "location": "Santander, Cantabria, Spain",
@@ -68,8 +67,8 @@
       "endDate": "2022-07-26",
       "score": "9.59/10",
       "courses": ["Focus on biophotonics and life sciences.","Thesis: Design of chiral devices with applications in nanotechnology (10/10, awarded as best Master thesis that year)."]
-    }
-
+    },
+    
     {
       "institution": "University of Cantabria",
       "location": "Santander, Cantabria, Spain",
@@ -88,8 +87,9 @@
       "title": "Best theoretical poster at CEN2025",
       "date": "2025-06-10",
       "awarder": "Pedro Pascual Benasque Science Center"
-    }
-        {
+    },
+    
+    {
       "title": "Best poster at University of Cantabria Science Day",
       "date": "2023-11-13",
       "awarder": "Faculty of Sciences, University of Cantabria"

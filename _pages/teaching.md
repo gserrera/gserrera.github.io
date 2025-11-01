@@ -7,41 +7,101 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching Activities
+<!-- _pages/teaching.md -->
 
-This page lists the courses I have taught, organized in **reverse chronological order** by academic year.  
-A final section lists my mentorship activities.
-
----
+<div class="teaching">
 
 {% assign sorted_teaching = site.data.teaching | sort: "year" | reverse %}
 
 {% for year_entry in sorted_teaching %}
-## {{ year_entry.year }}
-
-{% for course in year_entry.courses %}
-- **{{ course.title }}**  
-  _{{ course.level }} — {{ course.semester }}_  
-  {{ course.description }}
+  <div class="teaching-year">
+    <div class="teaching-entry">
+      <div class="entry-header">
+        <span class="entry-title"><strong>{{ year_entry.year }}</strong></span>
+      </div>
+      <ul class="teaching-courses">
+        {% for course in year_entry.courses %}
+        <li class="course-item">
+          <span class="course-info">
+            <strong>{{ course.title }}</strong><br>
+            <em>{{ course.level }}</em><br>
+            <small>{{ course.semester }}</small><br>
+            {% if course.description %}
+              {{ course.description }}
+            {% endif %}
+          </span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% unless forloop.last %}
+    <hr>
+    {% endunless %}
+  </div>
 {% endfor %}
 
-{% unless forloop.last %}
----
-{% endunless %}
+<hr>
 
-{% endfor %}
+<h2>Mentorships</h2>
+<div class="mentorships">
+  {% if site.data.mentorships %}
+    {% for mentor in site.data.mentorships %}
+    <div class="mentorship-entry">
+      <div class="mentorship-info">
+        <strong>{{ mentor.name }}</strong><br>
+        <em>{{ mentor.type }}</em> — {{ mentor.year }}<br>
+        {% if mentor.notes %}
+          <span class="mentorship-notes">{{ mentor.notes }}</span>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  {% else %}
+    <p>No mentorship data available.</p>
+  {% endif %}
+</div>
 
----
+</div>
 
-## Mentorships
-
-{% if site.data.mentorships %}
-{% for mentor in site.data.mentorships %}
-- **{{ mentor.name }}**  
-  _{{ mentor.type }}, {{ mentor.year }}_  
-  {% if mentor.notes %}{{ mentor.notes }}{% endif %}
-{% endfor %}
-{% else %}
-_No mentorship data available._
-{% endif %}
-
+<style>
+.teaching-year {
+  margin-bottom: 2em;
+}
+.entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5em;
+}
+.entry-title {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: var(--text-color, #333);
+}
+.teaching-courses {
+  list-style-type: none;
+  padding-left: 0;
+}
+.course-item {
+  margin-bottom: 0.8em;
+}
+.course-info {
+  display: block;
+  line-height: 1.4;
+}
+.mentorship-entry {
+  margin-bottom: 1em;
+}
+.mentorship-info {
+  line-height: 1.4;
+}
+.mentorship-notes {
+  color: #555;
+  font-size: 0.95em;
+}
+hr {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 1.5em 0;
+}
+</style>

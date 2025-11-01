@@ -1,0 +1,36 @@
+- year: 2025-2026
+  courses:
+    - title: Advanced Experimental Techniques (G1775)
+      level: Bachelor Degree in Physics (fourth year)
+      semester: Second (Spring)
+      description: Experiments in Adaptive Optics.
+    - title: Physics II (G417)
+      level: Bachelor Degree in Mining/Energy Resources Engineering (first year)
+      semester: Second (Spring)
+      description: Experiments in electromagnetism.
+    - title: Physics I (G375)
+    level: Bachelor Degree in Mining/Energy Resources Engineering (first year)
+    semester: First (Fall)
+    description: Experiments in mechanics.
+
+- year: 2024-2026
+  courses:
+    - title: Advanced Experimental Techniques (G1775)
+      level: Bachelor Degree in Physics (fourth year)
+      semester: Second (Spring)
+      description: Experiments in Adaptive Optics.
+    - title: Physics II (G417)
+      level: Bachelor Degree in Mining/Energy Resources Engineering (first year)
+      semester: Second (Spring)
+      description: Experiments in electromagnetism.
+
+- year: 2023-2024
+  courses:
+    - title: Advanced Experimental Techniques (G1775)
+      level: Bachelor Degree in Physics (fourth year)
+      semester: Second (Spring)
+      description: Experiments in Adaptive Optics.
+    - title: Energy in the World of Today (G1675)
+      level: Bachelor Degree in Early Childhood/Primary Education Teaching (third year)
+      semester: First (Fall)
+      description: Teaching on sustainability.

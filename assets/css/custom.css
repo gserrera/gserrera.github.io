@@ -1,0 +1,12 @@
+/* Right-align profile more-info block */
+.more-info {
+  text-align: right;       /* Aligns all content to the right */
+  line-height: 1.4;        /* Adjust spacing between lines */
+  margin: 0 0 1em 0;       /* Optional: space below the block */
+}
+
+/* Optional: remove extra spacing in paragraphs inside more-info */
+.more-info p {
+  margin: 0;
+  padding: 0;
+}

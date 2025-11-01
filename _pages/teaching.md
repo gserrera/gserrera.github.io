@@ -58,17 +58,23 @@ nav_order: 6
 </div>
 
 <style>
+/* Use theme variables so colors adapt to dark/light mode */
+.teaching {
+  color: var(--text-color); /* inherit site text color */
+}
+
 .section-title,
 .teaching h2 {
-  font-size: 1.5em; /* smaller section titles */
+  font-size: 1.5em;
   font-weight: 600;
-  color: var(--text-color, #333);
+  color: var(--text-color);
   margin-top: 1.8em;
   margin-bottom: 0.8em;
 }
 
 .teaching-year {
-  margin-bottom: 1.5em;
+  font-size: 1.5em;
+  margin-bottom: 2em;
 }
 
 .entry-header {
@@ -81,7 +87,7 @@ nav_order: 6
 .entry-title {
   font-size: 1em;
   font-weight: 600;
-  color: var(--text-color, #333);
+  color: var(--text-color);
 }
 
 .teaching-courses {
@@ -98,6 +104,7 @@ nav_order: 6
 .mentorships {
   font-size: 1em;
   margin-top: 1.5em;
+  color: var(--text-color);
 }
 
 .mentorship-entry {
@@ -106,13 +113,13 @@ nav_order: 6
 }
 
 .mentorship-notes {
-  color: #555;
+  color: var(--text-muted, var(--text-color));
   font-size: 0.95em;
 }
 
 hr {
   border: 0;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid var(--border-color, #ccc);
   margin: 1.5em 0;
 }
 </style>

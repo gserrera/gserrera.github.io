@@ -29,7 +29,9 @@ latest_posts:
 
 <div style="text-align: justify;">
 
-Welcome to my  webpage! I am Guillermo Serrera, PhD student in the Optics Group in the University of Cantabria. My work focuses on theoretical research on chiral nanophotonics and optical forces.
+Welcome to my  webpage!
+
+I am Guillermo Serrera, PhD student in the Optics Group in the University of Cantabria. My work focuses on theoretical research on chiral nanophotonics and optical forces.
 
 On this site, you will find information about my research, publications and teaching activities. 
 

@@ -27,12 +27,12 @@ email: guillermo.serrera@unican.es # your email address
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: https://orcid.org/0000-0001-9363-187X # your ORCID ID
+orcid_id: 0000-0001-9363-187X # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Guillermo-Serrera # your profile on ResearchGate
+research_gate_profile: Guillermo-Serrera # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: s3xMDM8AAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus

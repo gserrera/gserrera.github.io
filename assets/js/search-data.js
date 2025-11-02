@@ -469,6 +469,13 @@ ninja.data = [{
           window.open("https://github.com/gserrera", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/guillermo-serrera-pardueles-0677b4354", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',

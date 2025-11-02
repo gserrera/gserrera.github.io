@@ -13,10 +13,10 @@
       "city": "Santander",
       "countryCode": "Spain",
       "region": "Cantabria"
-    },
+    }
     
   },
-  "work": [
+  "Employment": [
     {
       "name": "Department of Applied Physics, University of Cantabria",
       "position": "Predoctoral researcher",
@@ -26,8 +26,7 @@
       "summary": "PhD Student in the Optics Group. Reserching in chiral nanophotonics and optical forces."
     }
   ],
-  
-  "education": [
+  "Education": [
     {
       "institution": "University of Cantabria",
       "location": "Santander, Spain",
@@ -63,11 +62,8 @@
       "score": "8.1/10",
       "courses": ["Focus on fundamental physics.","Thesis: Design of chiral system-based optical sensors (9.5/10)."]
     }
-    
-    
   ],
-
-  "funding": [
+  "Funding": [
     {
       "organization": "Spanish Ministry of Science, Innovation and Universities",
       "position": "Formación del Profesorado Universitario (FPU)",
@@ -75,7 +71,7 @@
       "startDate": "2023-01-01",
       "endDate": "2026-12-31",
       "summary": "Competitive PhD grant given by the Spanish government. Code: FPU21/02296."
-    }
+    },
 
     {
       "organization": "Spanish Ministry of Education",
@@ -87,7 +83,7 @@
     }
   ],
   
-  "awards": [
+  "Awards": [
     {
       "title": "Best theoretical poster at CEN2025",
       "date": "2025-06-10",
@@ -100,66 +96,88 @@
       "awarder": "Faculty of Sciences, University of Cantabria"
     }
   ],
-  "certificates": [
+  "Other qualifications": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "ACS reviewer lab",
+      "date": "2025-09-30",
+      "issuer": "American Chemical Society (ACS)",
+      "url": "https://institute.acs.org/courses/acs-reviewer-lab.html",
+      "description": "2 hour course.",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Optica Publishing Group Certified Reviewer Course",
+      "date": "2025-09-30",
+      "issuer": "Optica Society of America",
+      "url": "https://opg.optica.org/content/reviewer/cert",
+      "description": "1 hour course.",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Fundamentals and applications of optical materials",
+      "date": "2025-08-22",
+      "issuer": "University of Cantabria",
+      "url": "https://web.unican.es/cursosdeverano",
+      "description": "20 hour summer course.",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified Peer Reviewer Course",
+      "date": "2014-02-02",
+      "issuer": "Elsevier Researcher Academy",
+      "url": "https://researcheracademy.elsevier.com/navigating-peer-review/certified-peer-reviewer-course",
+      "description": "4 hour course.",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "European School on Plasmonics and Phase Change Materials",
+      "date": "202-07-18",
+      "issuer": "PHEMTRONICS (Active Optical Phase-Change Plasmonic Transdimensional Systemsx Enabling Femtojoule and Femtosecond Extreme Broadband Adaptive Reconfigurable Devices) project",
+      "url": "https://cordis.europa.eu/project/id/899598/reporting",
+      "description": "16 hour course."
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Creative strategies in teaching and research",
+      "date": "2023-05-25",
+      "issuer": "University of Cantabria",
+      "url": "https://web.unican.es/consejo-direccion/vcprofesorado/formacion-del-profesorado",
+      "description": "6 hours course."
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Social competences: tools for university teachers",
+      "date": "2023-04-20",
+      "issuer": "University of Cantabria",
+      "url": "https://web.unican.es/consejo-direccion/vcprofesorado/formacion-del-profesorado",
+      "description": "6 hours course."
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Emotional competences: tools for university teachers",
+      "date": "2023-03-21",
+      "issuer": "University of Cantabria",
+      "url": "https://web.unican.es/consejo-direccion/vcprofesorado/formacion-del-profesorado",
+      "description": "6 hours course."
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "skills": [
+  "Skills": [
     {
       "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Optics",
+        "Light-matter interaction",
+        "Nanophotonics",
+        "Plasmonics",
+        "Light scattering",
+        "Chirality"
       ]
     }
   ],
-  "languages": [
+  "Languages": [
     {
       "language": "Spanish",
       "fluency": "Native speaker",
@@ -169,20 +187,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "references": [

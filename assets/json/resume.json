@@ -16,7 +16,7 @@
     }
     
   },
-  "Employment": [
+  "employment": [
     {
       "name": "Department of Applied Physics, University of Cantabria",
       "position": "Predoctoral researcher",
@@ -26,7 +26,7 @@
       "summary": "PhD Student in the Optics Group. Reserching in chiral nanophotonics and optical forces."
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "University of Cantabria",
       "location": "Santander, Spain",
@@ -63,7 +63,7 @@
       "courses": ["Focus on fundamental physics.","Thesis: Design of chiral system-based optical sensors (9.5/10)."]
     }
   ],
-  "Funding": [
+  "funding": [
     {
       "organization": "Spanish Ministry of Science, Innovation and Universities",
       "position": "Formación del Profesorado Universitario (FPU)",
@@ -83,7 +83,7 @@
     }
   ],
   
-  "Awards": [
+  "awards": [
     {
       "title": "Best theoretical poster at CEN2025",
       "date": "2025-06-10",
@@ -96,7 +96,7 @@
       "awarder": "Faculty of Sciences, University of Cantabria"
     }
   ],
-  "Other qualifications": [
+  "other qualifications": [
     {
       "name": "ACS reviewer lab",
       "date": "2025-09-30",
@@ -130,19 +130,11 @@
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "European School on Plasmonics and Phase Change Materials",
-      "date": "202-07-18",
-      "issuer": "PHEMTRONICS (Active Optical Phase-Change Plasmonic Transdimensional Systemsx Enabling Femtojoule and Femtosecond Extreme Broadband Adaptive Reconfigurable Devices) project",
-      "url": "https://cordis.europa.eu/project/id/899598/reporting",
-      "description": "16 hour course."
-      "icon": "fa-solid fa-calendar"
-    },
-    {
       "name": "Creative strategies in teaching and research",
       "date": "2023-05-25",
       "issuer": "University of Cantabria",
       "url": "https://web.unican.es/consejo-direccion/vcprofesorado/formacion-del-profesorado",
-      "description": "6 hours course."
+      "description": "6 hours course.",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
@@ -150,7 +142,7 @@
       "date": "2023-04-20",
       "issuer": "University of Cantabria",
       "url": "https://web.unican.es/consejo-direccion/vcprofesorado/formacion-del-profesorado",
-      "description": "6 hours course."
+      "description": "6 hours course.",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
@@ -158,11 +150,19 @@
       "date": "2023-03-21",
       "issuer": "University of Cantabria",
       "url": "https://web.unican.es/consejo-direccion/vcprofesorado/formacion-del-profesorado",
-      "description": "6 hours course."
+      "description": "6 hours course.",
       "icon": "fa-solid fa-clipboard-check"
     }
+    {
+      "name": "European School on Plasmonics and Phase Change Materials",
+      "date": "2022-07-18",
+      "issuer": "PHEMTRONICS (Active Optical Phase-Change Plasmonic Transdimensional Systemsx Enabling Femtojoule and Femtosecond Extreme Broadband Adaptive Reconfigurable Devices) project",
+      "url": "https://cordis.europa.eu/project/id/899598/reporting",
+      "description": "16 hour course.",
+      "icon": "fa-solid fa-calendar"
+    },
   ],
-  "Skills": [
+  "skills": [
     {
       "name": "Physics",
       "level": "Master",
@@ -177,7 +177,7 @@
       ]
     }
   ],
-  "Languages": [
+  "languages": [
     {
       "language": "Spanish",
       "fluency": "Native speaker",

@@ -8,6 +8,15 @@
     - name: Languages
       value: English, Spanish
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Predoctoral researcher
+      institution: Department of Applied Physics, University of Cantabria
+      year: 2023 - 2026
+      description:
+        - PhD Student in the Optics Group. Reserching in chiral nanophotonics and optical forces.
+
 - title: Education
   type: time_table
   contents:
@@ -21,77 +30,116 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            
+    - title: Master on Light Science and Engineering
+      institution: University of Cantabria, Santander, Cantabria, Spain
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Focus on biophotonics and life sciences.
+        - <u>Master Thesis:</u> Design of chiral devices with applications in nanotechnology (10/10, awarded as best Master thesis that year).
 
-- title: Experience
+    - title: Bachelor Degree in Physics
+      institution: University of Cantabria, Santander, Cantabria, Spain
+      year: 2021
+      description:
+        - Focus on fundamental physics.
+        - <u>Bachelor Thesis:</u> Design of chiral system-based optical sensors (9.5/10).
+
+- title: Honors, Scholarships and Awards
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Research stay funding
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Awarded by the Spanish Ministry of Science, Innovation and Universities (EST25/00316).
+            - Two-month stay at University of Fribourg (Switzerland).
+    - year: 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - title: Best poster award at CEN2025
+          contents:
+            - Awarded by the Pedro Pascual Science Center of Benasque.
+            - Best theoretical poster at CEN2025 conference.
+    - year: 2023
       description:
+        - title: Best poster award at University of Cantabria Science day
+          contents:
+            - Awarded by the University of Cantabria Faculty of Sciences.
+            - Best poster of the Science day.
+    - year: 2022
+      description:
+        - title: Formación del Profesorado Universitario (FPU)
+          contents:
+            - Awarded by the Spanish Ministry of Science, Innovation and Universities (FPU21/02296).
+            - PhD Scholarship contract.
+    - year: 2020
+      description:
+        - title: Collaboration grant
+          contents:
+            - Awarded by the Spanish Ministry of Education and Professional Training.
+            - Scholarship for an internship in the Applied Physics Department of the University of Cantabria during the 2020-2021 academic year.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Other qualifications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
+     - year: 2025
+      description:
+        - title: ACS reviewer lab
+          contents:
+            - Awarded by the American Chemical Society (ACS).
+            - 2 hour course.
+      - year: 2025
+      description:
+        - title: Optica Publishing Group Certified Reviewer Course
+          contents:
+            - Awarded by the Optica Society of America.
+            - 1 hour course.
+      - year: 2025
+      description:
+        - title: Fundamentals and applications of optical materials
+          contents:
+            - Awarded by the University of Cantabria (Summer Courses).
+            - 20 hour summer school.
+      - year: 2024
+      description:
+        - title: Certified Peer Reviewer Course
+          contents:
+            - Awarded by the Elsevier Researcher Academy.
+            - 4 hour course.
+      - year: 2023
+      description:
+        - title: Creative strategies in teaching and research
+          contents:
+            - Awarded by the University of Cantabria (Plan de Formación del PDI).
+            - 6 hour course.
+      - year: 2023
+      description:
+        - title: Social compentences: tools for university teachers
+          contents:
+            - Awarded by the University of Cantabria (Plan de Formación del PDI).
+            - 6 hour course.
+      - year: 2023
+      description:
+        - title: Emotional compentences: tools for university teachers
+          contents:
+            - Awarded by the University of Cantabria (Plan de Formación del PDI).
+            - 6 hour course.
+      - year: 2022
+      description:
+        - title: European School on Plasmonics and Phase Change Materials
+          contents:
+            - Awarded by the PHEMTRONICS FETOPEN project",
+            - 16 hour summer school.
+            
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Nanophotonics.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Chiral light-matter interactions.
+        - Optical forces.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> playing violin and classical music in general, football.

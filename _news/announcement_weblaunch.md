@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Website launched! :sparkles: :smile:
+Website launched! :sparkles:

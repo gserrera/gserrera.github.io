@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf # you can also use external links here
 social: true # includes social icons at the bottom of the page
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: You can find a brief resumé below. Clicking on the PDF button sends to a full CV.
 toc:
   sidebar: left
 ---

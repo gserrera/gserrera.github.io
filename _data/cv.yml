@@ -20,11 +20,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Science and Technology
       institution: University of Cantabria, Santander, Cantabria, Spain
       year: 2026
       description:
-        - Focus on nanophotonic devices for optical forces and chiral sensing.
+        - Research on nanophotonic devices for optical forces and chiral sensing.
             
     - title: Master on Light Science and Engineering
       institution: University of Cantabria, Santander, Cantabria, Spain
@@ -73,6 +73,23 @@
           contents:
             - Awarded by the Spanish Ministry of Education and Professional Training.
             - Scholarship for an internship in the Applied Physics Department of the University of Cantabria during the 2020-2021 academic year.
+
+- title: Research stays
+  type: time_table
+  contents:
+    - institution: University of Fribourg, Switzerland
+      year: 2025
+      description:
+        - Two-month stay (September 3rd - November 4th) in the <a href="https://sites.google.com/view/group-acuna/home" target="_blank">Photonic Nanosystems Group</a>, led by Prof. Guillermo Acuña.
+        - Funded by the Spanish Ministry of Science, Innovation and Universities (EST25/00316).
+        - Theoretical and experimental work on structures for chiral sensing and superresolution microscopy.
+            
+    - institution: Ghent University, Belgium
+      year: 2024
+      description:
+        - Three-month stay (September 1st - December 1st) in the <a href="https://nano-optics.be/" target="_blank">Nano-Optics lab</a> of the <a href="https://www.photonics.intec.ugent.be/" target="_blank">Photonics Research Group</a>, led by Prof. Alberto G. Curto.
+        - Funded by the MOPHSOYS project (PID2022-139560NB-I00) from the Spanish Agencia Estatal de Investigación.
+        - Theoretical and experimental work on polarized Raman scattering by silicon structures.
 
 - title: Other qualifications
   type: time_table

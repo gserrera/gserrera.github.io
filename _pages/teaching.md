@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses and mentorships in reverse chronological order.
+description: Courses and supervisions in reverse chronological order.
 nav: true
 nav_order: 6
 social: true # includes social icons at the bottom of the page

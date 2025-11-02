@@ -82,7 +82,7 @@
       description:
         - Two-month stay (September 3rd - November 4th) in the <a href="https://sites.google.com/view/group-acuna/home" target="_blank">Photonic Nanosystems Group</a>, led by Prof. Guillermo Acuña.
         - Funded by the Spanish Ministry of Science, Innovation and Universities (EST25/00316).
-        - Theoretical and experimental work on structures for chiral sensing and superresolution microscopy.
+        - Theoretical and experimental work on nanostructures for chiral sensing and superresolution microscopy.
             
     - institution: Ghent University, Belgium
       year: 2024
@@ -140,7 +140,7 @@
       description:
         - title: European School on Plasmonics and Phase Change Materials
           contents:
-            - Awarded by the PHEMTRONICS FETOPEN project",
+            - Awarded by the <a href="https://cordis.europa.eu/project/id/899598" target="_blank">PHEMTRONICS</a> H2020 FET Open project.
             - 16 hour summer school.
             
 - title: Academic Interests

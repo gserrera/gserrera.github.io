@@ -82,49 +82,49 @@
 - title: Other qualifications
   type: time_table
   contents:
-     - year: 2025
+    - year: 2025
       description:
         - title: ACS reviewer lab
           contents:
             - Awarded by the American Chemical Society (ACS).
             - 2 hour course.
-      - year: 2025
+    - year: 2025
       description:
         - title: Optica Publishing Group Certified Reviewer Course
           contents:
             - Awarded by the Optica Society of America.
             - 1 hour course.
-      - year: 2025
+    - year: 2025
       description:
         - title: Fundamentals and applications of optical materials
           contents:
             - Awarded by the University of Cantabria (Summer Courses).
             - 20 hour summer school.
-      - year: 2024
+    - year: 2024
       description:
         - title: Certified Peer Reviewer Course
           contents:
             - Awarded by the Elsevier Researcher Academy.
             - 4 hour course.
-      - year: 2023
+    - year: 2023
       description:
         - title: Creative strategies in teaching and research
           contents:
             - Awarded by the University of Cantabria (Plan de Formación del PDI).
             - 6 hour course.
-      - year: 2023
+    - year: 2023
       description:
         - title: Social compentences: tools for university teachers
           contents:
             - Awarded by the University of Cantabria (Plan de Formación del PDI).
             - 6 hour course.
-      - year: 2023
+    - year: 2023
       description:
         - title: Emotional compentences: tools for university teachers
           contents:
             - Awarded by the University of Cantabria (Plan de Formación del PDI).
             - 6 hour course.
-      - year: 2022
+    - year: 2022
       description:
         - title: European School on Plasmonics and Phase Change Materials
           contents:

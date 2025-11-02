@@ -32,7 +32,7 @@ latest_posts:
 
 <p>Welcome to my website!</p>
 
-<p>I am Guillermo Serrera, PhD student in the <a href="https://grupos.unican.es/optica/index.html" target="_blank">Group of Optics</a> in the <a href="https://www.unican.es" target="_blank">University of Cantabria</a>. My work focuses on theoretical research on chiral nanophotonics and optical forces.</p>
+<p>I am Guillermo Serrera, PhD student in the <a href="https://grupos.unican.es/optica/index.html" target="_blank">Group of Optics</a> at the <a href="https://www.unican.es" target="_blank">University of Cantabria</a>. My work focuses on theoretical research on chiral nanophotonics and optical forces.</p>
 
 <p>On this site, you will find information about my research, publications and teaching activities.</p>
 

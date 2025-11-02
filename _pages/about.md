@@ -23,17 +23,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 <div style="text-align: justify;">
 
-Welcome to my  webpage!
+<p>Welcome to my webpage!</p>
 
-I am Guillermo Serrera, PhD student in the Optics Group in the University of Cantabria. My work focuses on theoretical research on chiral nanophotonics and optical forces.
+<p>I am Guillermo Serrera, PhD student in the Optics Group in the University of Cantabria. My work focuses on theoretical research on chiral nanophotonics and optical forces.</p>
 
-On this site, you will find information about my research, publications and teaching activities. 
+<p>On this site, you will find information about my research, publications and teaching activities.</p>
 
 </div>

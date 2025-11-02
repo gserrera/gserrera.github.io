@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Courses and mentorships in reverse chronological order.",
+          description: "Courses and supervisions in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";

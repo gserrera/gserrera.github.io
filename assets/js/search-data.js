@@ -55,12 +55,7 @@ ninja.data = [{
       },{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

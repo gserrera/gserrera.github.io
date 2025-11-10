@@ -30,7 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-website-launched-sparkles",
+        },{id: "events-wip-conference",
+          title: 'WiP conference',
+          description: "",
+          section: "Events",handler: () => {
+              window.location.href = "/events/inprogress/";
+            },},{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",
           section: "News",},{

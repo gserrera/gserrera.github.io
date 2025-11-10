@@ -1,0 +1,30 @@
+{% assign next_events = site.events | where_exp:"item", "item.date >= site.time" | sort: "date" %}
+{% if next_events.size > 0 %}
+  <div class="row">
+    {% assign limit = include.limit | default: 3 %}
+    {% for event in next_events limit:limit %}
+      <div class="col-md-6 col-lg-4 mb-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <h5 class="card-title">
+              {% if event.link %}
+                <a href="{{ event.link }}" target="_blank">{{ event.title }}</a>
+              {% else %}
+                {{ event.title }}
+              {% endif %}
+            </h5>
+            <p class="card-text mb-1">
+              <strong>{{ event.date | date: "%d %b %Y" }}</strong><br>
+              {{ event.location }}
+            </p>
+            {% if event.excerpt %}
+              <p class="card-text text-muted">{{ event.excerpt }}</p>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No hay eventos próximos por el momento.</p>
+{% endif %}

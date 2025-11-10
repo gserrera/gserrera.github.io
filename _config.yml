@@ -143,6 +143,10 @@ collections:
     output: true
   projects:
     output: false
+  events:
+    output: true
+    permalink: /events/:name/
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

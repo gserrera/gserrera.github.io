@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "events-wip-conference",
-          title: 'WiP conference',
+        },{id: "events-photoptics-nanoplasmeta-2026",
+          title: 'Photoptics - NanoPlasMeta 2026',
           description: "",
           section: "Events",handler: () => {
-              window.location.href = "/events/inprogress/";
+              window.location.href = "/events/photoptics2026/";
             },},{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",

@@ -145,7 +145,8 @@ collections:
     output: false
   events:
     output: true
-    permalink: /events/:name/
+    permalink: /events/item/:name/
+
 
 
 # -----------------------------------------------------------------------------

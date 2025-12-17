@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="container mt-5">
+  <h1>{{ page.title }}</h1>
+
+  <p class="text-muted">
+    <strong>
+      {{ page.date | date: "%d %b %Y" }}
+      {% if page.end_date %}
+        – {{ page.end_date | date: "%d %b %Y" }}
+      {% endif %}
+    </strong><br>
+    {{ page.location }}
+  </p>
+
+  {% if page.conference_link %}
+    <p>
+      <a href="{{ page.conference_link }}" target="_blank" rel="noopener">
+        Conference website
+      </a>
+    </p>
+  {% endif %}
+
+  <hr>
+
+  <div class="event-content">
+    {{ content }}
+  </div>
+</div>

@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "events-photoptics-nanoplasmeta-2026",
-          title: 'Photoptics - NanoPlasMeta 2026',
+          title: 'Photoptics – NanoPlasMeta 2026',
           description: "",
           section: "Events",handler: () => {
               window.location.href = "/events/photoptics2026/";

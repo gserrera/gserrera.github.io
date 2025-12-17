@@ -1,5 +1,6 @@
 ---
-title: "Photoptics – NanoPlasMeta 2026"
+title: "Photoptics-NanoPlasMeta 2026"
+layout: event
 date: 2026-03-06
 end_date: 2026-03-08
 location: "Marbella, Spain"
@@ -16,7 +17,7 @@ Ershad Mohammadi, T. V. Raziman, Søren Raza, Pablo Albella, Alberto G. Curto
 
 ### Conference
 14th International Conference on Photonics, Optics and Laser Technology (PHOTOPTICS 2026)  
-**NanoPlasMeta Workshop**
+**Workshop on Nanophotonics, Plasmonics and Metamaterials (NanoPlasMeta)**
 
 ### Venue
 Barceló Marbella Hotel, Marbella, Spain

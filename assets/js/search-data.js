@@ -35,6 +35,11 @@ ninja.data = [{
           description: "",
           section: "Events",handler: () => {
               window.location.href = "/events/photoptics2026/";
+            },},{id: "events-meta-2026",
+          title: 'META 2026',
+          description: "",
+          section: "Events",handler: () => {
+              window.location.href = "/events/meta2026/";
             },},{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",

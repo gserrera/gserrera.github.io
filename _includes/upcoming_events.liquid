@@ -12,7 +12,12 @@
               </a>
             </h5>
             <p class="card-text mb-1">
-              <strong>{{ event.date | date: "%d %b %Y" }}</strong><br>
+              <strong>
+                {{ event.date | date: "%d %b %Y" }}
+                {% if event.end_date %}
+                  – {{ event.end_date | date: "%d %b %Y" }}
+                {% endif %}
+              </strong><br>
               {{ event.location }}
             </p>
             {% if event.excerpt %}

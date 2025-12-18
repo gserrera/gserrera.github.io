@@ -34,12 +34,12 @@ ninja.data = [{
           title: 'Photoptics-NanoPlasMeta 2026',
           description: "",
           section: "Events",handler: () => {
-              window.location.href = "/events/item/photoptics2026/";
+              window.location.href = "/event/photoptics2026/";
             },},{id: "events-meta-2026",
           title: 'META 2026',
           description: "",
           section: "Events",handler: () => {
-              window.location.href = "/events/item/meta2026/";
+              window.location.href = "/event/meta2026/";
             },},{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",

@@ -24,6 +24,3 @@ Barceló Marbella Hotel, Marbella, Spain
 
 ### Dates
 March 6–8, 2026
-
-[Conference website]({{ page.conference_link }})
-

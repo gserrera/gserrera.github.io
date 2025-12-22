@@ -16,8 +16,8 @@ Guillermo Serrera, Rasmus H. Godiksen, Lex M. Dedding, Tom T. C. Sistermans,
 Ershad Mohammadi, T. V. Raziman, Søren Raza, Pablo Albella and Alberto G. Curto
 
 ### Conference
-14th International Conference on Photonics, Optics and Laser Technology (PHOTOPTICS 2026)  
-**Workshop on Nanophotonics, Plasmonics and Metamaterials (NanoPlasMeta)**
+**14th International Conference on Photonics, Optics and Laser Technology (PHOTOPTICS 2026)**
+Workshop on Nanophotonics, Plasmonics and Metamaterials (NanoPlasMeta)
 
 ### Venue
 Barceló Marbella Hotel, Marbella, Spain

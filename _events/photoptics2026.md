@@ -13,14 +13,14 @@ excerpt: "Probing optical spin with circularly polarized Raman scattering in sil
 
 ### Authors
 Guillermo Serrera, Rasmus H. Godiksen, Lex M. Dedding, Tom T. C. Sistermans,  
-Ershad Mohammadi, T. V. Raziman, Søren Raza, Pablo Albella and Alberto G. Curto
+Ershad Mohammadi, T. V. Raziman, Søren Raza, Pablo Albella and Alberto G. Curto.
 
 ### Conference
 **14th International Conference on Photonics, Optics and Laser Technology (PHOTOPTICS 2026).**\
-Workshop on Nanophotonics, Plasmonics and Metamaterials (NanoPlasMeta)
+Workshop on Nanophotonics, Plasmonics and Metamaterials (NanoPlasMeta).
 
 ### Venue
-Barceló Marbella Hotel, Marbella, Spain
+Barceló Marbella Hotel, Marbella, Spain.
 
 ### Dates
-March 6th–8th, 2026
+March 6th–8th, 2026.

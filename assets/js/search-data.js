@@ -43,6 +43,9 @@ ninja.data = [{
             },},{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",
+          section: "News",},{id: "news-article-published-in-advanced-functional-materials",
+          title: 'Article published in Advanced Functional Materials.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

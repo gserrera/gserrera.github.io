@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-article-published-in-advanced-functional-materials",
           title: 'Article published in Advanced Functional Materials!',
           description: "",
+          section: "News",},{id: "news-preprint-manuscript-added",
+          title: 'Preprint manuscript added!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

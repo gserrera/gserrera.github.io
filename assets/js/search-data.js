@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "events-photoptics-nanoplasmeta-2026",
-          title: 'Photoptics-NanoPlasMeta 2026',
-          description: "",
-          section: "Events",handler: () => {
-              window.location.href = "/event/photoptics2026/";
-            },},{id: "events-meta-2026",
+        },{id: "events-meta-2026",
           title: 'META 2026',
           description: "",
           section: "Events",handler: () => {

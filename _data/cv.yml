@@ -94,20 +94,19 @@
 - title: Other qualifications
   type: time_table
   contents:
-  
-  - year: 2026
+    - year: 2026
       description:
         - title: Reflection on the own teaching practice in higher education, University of Cantabria courses
           contents:
             - Awarded by the University of Cantabria (Plan de Formación del PDI).
             - 9 hour course.
-   - year: 2026
+    - year: 2026
       description:
         - title: The revolution of generative artificial intelligence in research and teaching
           contents:
             - Awarded by the University of Cantabria (Plan de Formación del PDI).
             - 12 hour course.
-   - year: 2025
+    - year: 2025
       description:
         - title: Strategies for Including the SDGs in university teaching
           contents:

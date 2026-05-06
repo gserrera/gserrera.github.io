@@ -9,7 +9,7 @@ excerpt: "Light-Driven Nanomotors with controllable 3D Motion"
 ---
 
 ### Talk title
-**Light-Driven Nanomotors with controllable 3D Motion**\
+**Light-Driven Nanomotors with controllable 3D Motion**
 
 ### Authors
 Guillermo Serrera, Yoshito Y. Tanaka and Pablo Albella.

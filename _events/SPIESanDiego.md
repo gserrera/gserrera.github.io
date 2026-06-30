@@ -15,8 +15,8 @@ excerpt: "Light-Driven Nanomotors with controllable 3D Motion"
 Guillermo Serrera, Yoshito Y. Tanaka and Pablo Albella.
 
 ### Event
-**SPIE Optics + Photonics 2026**\\
-Symposium: Organic Photonics + Electronics.\\
+**SPIE Optics + Photonics 2026**  
+Symposium: Organic Photonics + Electronics.  
 Conference: Molecular and Nanophotonic Machines, Devices, and Applications IX.
 
 ### Venue

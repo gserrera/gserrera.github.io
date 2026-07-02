@@ -31,14 +31,14 @@
       year: 2022
       description:
         - Focus on biophotonics and life sciences.
-        - <u>Master Thesis:</u> Design of chiral devices with applications in nanotechnology (10/10, awarded as best Master thesis that year).
+        - <u>Master Thesis:</u> Design of chiral devices with applications in nanotechnology (10/10, with distinction/honors, awarded as best Master thesis that year).
 
     - title: Bachelor Degree in Physics
       institution: University of Cantabria, Santander, Cantabria, Spain
       year: 2021
       description:
         - Focus on fundamental physics.
-        - <u>Bachelor Thesis:</u> Design of chiral system-based optical sensors (9.5/10).
+        - <u>Bachelor Thesis:</u> Design of chiral system-based optical sensors (9.5/10, with distinction/honors).
 
 - title: Honors, Scholarships and Awards
   type: time_table
@@ -94,6 +94,12 @@
 - title: Other qualifications
   type: time_table
   contents:
+    - year: 2026
+      description:
+        - title: Motivation and learning, University of Cantabria courses
+          contents:
+            - Awarded by the University of Cantabria (Plan de Formación del PDI).
+            - 8 hour course.
     - year: 2026
       description:
         - title: Reflection on the own teaching practice in higher education, University of Cantabria courses

@@ -44,7 +44,7 @@ ninja.data = [{
           title: 'Website launched! :sparkles:',
           description: "",
           section: "News",},{id: "news-article-published-in-advanced-functional-materials",
-          title: 'Article published in Advanced Functional Materials !',
+          title: 'Article published in Advanced Functional Materials!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ColorRouting/";
@@ -52,7 +52,7 @@ ninja.data = [{
           title: 'Preprint manuscript added!',
           description: "",
           section: "News",},{id: "news-manuscripts-accepted-in-nanophotonics-and-advanced-photonics-research",
-          title: 'Manuscripts accepted in Nanophotonics and Advanced Photonics Research !',
+          title: 'Manuscripts accepted in Nanophotonics and Advanced Photonics Research!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ForceDisks3DStokes/";

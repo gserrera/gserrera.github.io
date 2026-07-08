@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Article published in _Advanced Functional Materials_!
+Article published in _Advanced Functional Materials_ !

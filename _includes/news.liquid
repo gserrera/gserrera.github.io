@@ -21,7 +21,13 @@
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                <a class="news-title" href="{{ item.url | relative_url }}">
+                {{ item.title }}
+                </a>
+
+                <span class="ms-2">
+                <a href="{{ item.url | relative_url }}">Read more →</a>
+                </span>
               {% endif %}
             </td>
           </tr>

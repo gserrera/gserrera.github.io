@@ -50,9 +50,11 @@ ninja.data = [{
           title: 'Preprint manuscript added!',
           description: "",
           section: "News",},{id: "news-manuscripts-accepted-in-nanophotonics-and-advanced-photonics-research",
-          title: 'Manuscripts accepted in Nanophotonics and Advanced Photonics Research !',
+          title: 'Manuscripts accepted in _Nanophotonics_ and _Advanced Photonics Research_ !',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/ForceDisks3DStokes/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

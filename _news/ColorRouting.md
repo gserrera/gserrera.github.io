@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-1-27 10:37:00+0100
-title: Article published in <em>Advanced Functional Materials<em> !
+title: Article published in Advanced Functional Materials!
 related_posts: false
 ---
 

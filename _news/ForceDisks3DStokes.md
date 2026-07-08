@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-7-8 20:00:00+0100
-title: Manuscripts accepted in <em>Nanophotonics</em> and <em>Advanced Photonics Research</em> !
+title: Manuscripts accepted in Nanophotonics and Advanced Photonics Research!
 related_posts: false
 ---
 

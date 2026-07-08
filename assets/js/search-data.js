@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-preprint-manuscript-added",
           title: 'Preprint manuscript added!',
           description: "",
+          section: "News",},{id: "news-manuscripts-accepted-in-nanophotonics-and-advanced-photonics-research",
+          title: 'Manuscripts accepted in Nanophotonics and Advanced Photonics Research !',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

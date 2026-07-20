@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 {% include bib_search.liquid %}
 
-<div class="conferences">
+<div class="publications">
 
 {% bibliography --file conferences %}
 

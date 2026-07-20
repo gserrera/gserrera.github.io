@@ -4,7 +4,7 @@ permalink: /conferences/
 title: Conferences
 description: Publications and presented posters in reversed chronological order. PDFs and full citations are provided.
 nav: true
-nav_order: 3
+nav_order: 4
 social: true # includes social icons at the bottom of the page
 ---
 

@@ -8,4 +8,4 @@ nav_order: 3
 social: true # includes social icons at the bottom of the page
 ---
 
-{% include upcoming_events.liquid %}
+{% include events.liquid %}

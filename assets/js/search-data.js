@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-events",
           title: "Events",
-          description: "Upcoming and past conferences and events.",
+          description: "Upcoming and past conferences and events. Posters and abstracts are provided in PDF.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/events/";

@@ -18,6 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 <div class="publications">
 
-{% bibliography --file conferences %}
+{% bibliography --query @*[keywords~=conference] %}
 
 </div>

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Upcoming events
-permalink: /upcoming_events/
-description: Upcoming conferences and events.
-nav: false
+title: Events
+permalink: /events/
+description: Upcoming and past conferences and events.
+nav: true
+nav_order: 3
 social: true # includes social icons at the bottom of the page
 ---
 

@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-conferences",
+          title: "Conferences",
+          description: "Publications and presented posters in reversed chronological order. PDFs and full citations are provided.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/conferences/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "You can find a brief resumé below. Clicking on the PDF button sends to a full CV.",

@@ -41,3 +41,5 @@ events:
 <p>On this site, you will find information about my research, publications and teaching activities.</p>
 
 </div>
+
+{% include events.liquid %}

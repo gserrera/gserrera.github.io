@@ -27,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-events:
+upcoming_events:
   enabled: true
 
 ---
@@ -41,7 +41,3 @@ events:
 <p>On this site, you will find information about my research, publications and teaching activities.</p>
 
 </div>
-
-# Upcoming events
-
-{% include events.liquid %}

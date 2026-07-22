@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "events-meta-2026",
-          title: 'META 2026',
-          description: "",
-          section: "Events",handler: () => {
-              window.location.href = "/event/meta2026/";
-            },},{id: "events-spie-optics-photonics-2026",
+        },{id: "events-spie-optics-photonics-2026",
           title: 'SPIE Optics + Photonics 2026',
           description: "",
           section: "Events",handler: () => {

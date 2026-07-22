@@ -42,4 +42,6 @@ events:
 
 </div>
 
+# Upcoming events
+
 {% include events.liquid %}

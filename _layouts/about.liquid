@@ -56,12 +56,12 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Upocoming events -->
-    {% if page.upcoming_events and page.upcoming_events.enabled %}
+    <!-- Upcoming events -->
+    {% if page.events and page.events.enabled %}
       <h2>
-        <a href="{{ '/upcoming_events/' | relative_url }}" style="color: inherit">Upcoming events</a>
+        <a href="{{ '/events/' | relative_url }}" style="color: inherit">Upcoming events</a>
       </h2>
-      {% include upcoming_events.liquid %}
+      {% include events.liquid %}
     {% endif %}
 
     <!-- Selected papers -->

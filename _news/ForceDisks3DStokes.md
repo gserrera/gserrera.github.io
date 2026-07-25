@@ -12,4 +12,5 @@ The first manuscript, entitled ***Enhanced Enantioselective Optical Trapping ena
 
 The second manuscript, entitled ***Stokes-Based 3D Polarimetric Analysis of Dipolar Near-Fields***, derives from a joint effort from the Group (Y. Gutiérrez and F. Moreno) with our honorary collaborator, Prof. J. J. Gil; and has been accepted in ***Advanced Photonics Research***. In this theoretical manuscript, we estabish the 3D Stokes formalism in the context of different dipolar emitters, which allows to complement previous polarimetric descriptions in an straightforward manner. Furthermore, we distinguish fundamental features between dipoles by considering their intrinsic reference frame (obtained with the associated software ***DiPolIn***, uploaded to Zenodo).
 
-Once they're published, I'll add the corresponding information here as well as to the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.
+Once they're published, I'll add the corresponding information to the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.
+**Edit (July 7th):** Both articles are now online! 

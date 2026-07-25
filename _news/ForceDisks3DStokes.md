@@ -14,4 +14,4 @@ The second manuscript, entitled ***Stokes-Based 3D Polarimetric Analysis of Dipo
 
 Once they're published, I'll add the corresponding information to the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.
 
-**Edit (July 25th):** Both articles are now online!
+**Update (July 25th):** Both articles are now online!

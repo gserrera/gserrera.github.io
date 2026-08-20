@@ -87,11 +87,11 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-9363-187X", "_blank");
         },
       },{
-        id: 'social-clarivate_id',
-        title: 'Clarivate_id',
+        id: 'social-publons',
+        title: 'Publons',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://publons.com/a/HLW-2946-2023/", "_blank");
         },
       },{
         id: 'social-researchgate',

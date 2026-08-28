@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "events-spie-optics-photonics-2026",
-          title: 'SPIE Optics + Photonics 2026',
-          description: "",
-          section: "Events",handler: () => {
-              window.location.href = "/event/spiesandiego/";
-            },},{id: "news-website-launched-sparkles",
+        },{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",
           section: "News",},{id: "news-article-published-in-advanced-functional-materials",

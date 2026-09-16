@@ -1,9 +1,9 @@
-- title: General Information
+- title: General information
   type: map
   contents:
-    - name: Full Name
+    - name: Full name
       value: Guillermo Serrera Pardueles
-    - name: Date of Birth
+    - name: Date of birth
       value: 23th March 1998
     - name: Languages
       value: Spanish (native), English (C1)
@@ -40,7 +40,7 @@
         - Focus on fundamental physics.
         - <u>Bachelor Thesis:</u> Design of chiral system-based optical sensors (9.5/10, with distinction/honors).
 
-- title: Honors, Scholarships and Awards
+- title: Honors, scholarships and awards
   type: time_table
   contents:
     - year: 2025
@@ -167,7 +167,7 @@
             - Awarded by the <a href="https://cordis.europa.eu/project/id/899598" target="_blank">PHEMTRONICS</a> H2020 FET Open project.
             - 16 hour summer school.
             
-- title: Academic Interests
+- title: Academic interests
   type: nested_list
   contents:
     - title: Nanophotonics
@@ -175,7 +175,7 @@
         - Chiral light-matter interactions.
         - Optical forces.
 
-- title: Other Interests
+- title: Other interests
   type: list
   contents:
     - <u>Hobbies:</u> playing violin and classical music in general, football.

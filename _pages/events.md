@@ -12,7 +12,7 @@ social: true # includes social icons at the bottom of the page
 
 {% include events.liquid %}
 
-# Past Contributions
+# Past contributions
 
 {% include bib_search.liquid %}
 

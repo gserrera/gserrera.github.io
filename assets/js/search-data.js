@@ -53,7 +53,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ForceDisks3DStokes/";
-            },},{
+            },},{id: "news-phd-thesis-officially-submitted",
+          title: 'PhD Thesis officially submitted! 📝',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

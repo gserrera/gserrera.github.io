@@ -61,7 +61,9 @@ ninja.data = [{
             },},{id: "news-phd-thesis-officially-submitted",
           title: 'PhD Thesis officially submitted! 📝',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/ThesisSubmission/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

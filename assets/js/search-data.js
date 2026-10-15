@@ -37,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-website-launched-sparkles",
+        },{id: "events-phd-defense",
+          title: 'PhD defense',
+          description: "",
+          section: "Events",handler: () => {
+              window.location.href = "/event/phddefense/";
+            },},{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",
           section: "News",},{id: "news-article-published-in-advanced-functional-materials",

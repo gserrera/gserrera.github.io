@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "events-phd-defense",
-          title: 'PhD defense',
-          description: "",
-          section: "Events",handler: () => {
-              window.location.href = "/event/phddefense/";
-            },},{id: "news-website-launched-sparkles",
+        },{id: "news-website-launched-sparkles",
           title: 'Website launched! :sparkles:',
           description: "",
           section: "News",},{id: "news-article-published-in-advanced-functional-materials",
@@ -63,6 +58,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ThesisSubmission/";
+            },},{id: "news-phd-awarded",
+          title: 'PhD awarded! 🎓',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/PhDEnd/";
             },},{
         id: 'social-email',
         title: 'email',
